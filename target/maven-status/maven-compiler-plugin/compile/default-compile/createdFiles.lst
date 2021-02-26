@@ -1,0 +1,11 @@
+page\SignInPage.class
+page\MenuContentPage.class
+page\CataloguePage.class
+page\CheckoutPage.class
+page\SummaryPage.class
+page\PaymentPage.class
+page\ShippingPage.class
+page\BankPaymentPage.class
+page\AddressPage.class
+page\ProductDetailPage.class
+page\OrderResumePage.class
